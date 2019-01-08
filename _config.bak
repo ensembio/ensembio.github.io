@@ -1,0 +1,28 @@
+# Dependencies
+# markdown: kramdown
+#highlighter: pygments
+
+# Permalinks
+# permalink: pretty
+
+
+# Setup
+title: Ensembio
+tagline:          'Measure, don't guess'
+description:      'Premium consumer health and fitness self-tracking products for China and beyond.'
+url:              http://ensembio.com
+baseurl:          /
+
+author:
+name:           'Ensembio, Inc.'
+url:            https://ensembio.com
+
+paginate:         5
+
+# Custom vars
+version:          0.7.1
+
+github:
+  repo:           https://github.com/ensembio
+
+gems: [jekyll-paginate, jekyll-gist]

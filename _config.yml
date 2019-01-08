@@ -1,28 +1,21 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      pygments
+# Name of your blog (this will show up at the top of your page and in the RSS feed)
+title: Ensembio
+tagline:          'Measure it yourself'
 
-# Permalinks
-permalink:        pretty
-
-
-# Setup
-title:            Ensembio
-tagline:          'The future, quantified'
-description:      'Premium consumer health and fitness self-tracking products for China and beyond.'
+# Short description (goes below the title; it will also be used in the RSS feed)
+description: 'Premium consumer health and fitness products for China and beyond.'
+permalink: pretty
 url:              http://ensembio.com
 baseurl:          /
 
-author:
-  name:           'Ensembio, Inc.'
-  url:            https://ensembio.com
+# Custom vars
+version:          0.7.2
+
 
 paginate:         5
 
-# Custom vars
-version:          0.7.1
 
 github:
   repo:           https://github.com/ensembio
 
-gems: [jekyll-paginate, jekyll-gist]
+plugins: [jekyll-paginate, jekyll-gist]
