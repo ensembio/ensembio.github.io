@@ -8,6 +8,10 @@ permalink: pretty
 url:              http://ensembio.com
 baseurl:          /
 
+sass:
+  sass_dir: _sass
+
+
 # Custom vars
 version:          0.8.0
 
