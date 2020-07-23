@@ -9,7 +9,7 @@ url:              http://ensembio.com
 baseurl:          /
 
 # Custom vars
-version:          0.7.2
+version:          0.8.0
 
 
 paginate:         5
