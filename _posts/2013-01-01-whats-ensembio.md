@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-07-20
+date: 2020-12-01
 title: What is Ensembio?
 ---
 We are a well-funded, experienced team of executives from China and the US who build premier consumer health and fitness “self-tracking” (Quantified Self) products worldwide.
