@@ -1,0 +1,7 @@
+---
+about:
+  template: jolla
+  image: assets/Ensembio_Logo1024x1024.jpg
+---
+
+Personal health products, services, investments.

@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 4200
+
+website:
+  title: "Ensembio"
+  site-url: "https://ensembio.com"
+  favicon: ensembio-favicon.ico
+  page-footer:
+    center: "© 2022. All rights reserved. "
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - privacy.qmd
+      - href: https://apps.apple.com/us/developer/ensembio-inc/id656504140
+        text: "Products"
+      - href: https://personalscience.com
+        text: "Personal Science"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
