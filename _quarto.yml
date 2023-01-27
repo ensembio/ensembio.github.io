@@ -9,7 +9,7 @@ website:
   site-url: "https://ensembio.com"
   favicon: ensembio-favicon.ico
   page-footer:
-    center: "© 2022. All rights reserved. "
+    center: "© 2023. All rights reserved. "
   navbar:
     left:
       - href: index.qmd
