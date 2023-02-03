@@ -8,6 +8,7 @@ website:
   title: "Ensembio"
   site-url: "https://ensembio.com"
   favicon: ensembio-favicon.ico
+  google-analytics: "G-3Q6SCEGVMG"
   page-footer:
     center: "© 2023. All rights reserved. "
   navbar:
