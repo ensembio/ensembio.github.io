@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Red square (background) -->
+  <rect x="40" y="60" width="80" height="80"
+        fill="none"
+        stroke="#FF0000"
+        stroke-width="10"/>
+
+  <!-- Blue square (middle - shifted down and right) -->
+  <rect x="60" y="85" width="80" height="80"
+        fill="none"
+        stroke="#0000FF"
+        stroke-width="10"/>
+
+  <!-- Green square (top - intersecting at top right) -->
+  <rect x="80" y="20" width="80" height="80"
+        fill="none"
+        stroke="#00FF00"
+        stroke-width="10"/>
+</svg>
